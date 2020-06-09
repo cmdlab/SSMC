@@ -1,0 +1,7 @@
+MX_dim  MX_form  MX_id  MO_dim  MO_form  MO_id  2DMX EHull
+Traceback (most recent call last):
+  File "query_test_3.py", line 47, in <module>
+    MX_dimension= ana.get_dimensionality_cheon(entry['structure'])                 
+  File "/home/agupt256/Softwares/anaconda3/envs/cms1/code/pymatgen/pymatgen/analysis/dimensionality.py", line 375, in get_dimensionality_cheon
+    dim = np.log2(float(max2) / max1)
+ZeroDivisionError: float division by zero

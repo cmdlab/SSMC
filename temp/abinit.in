@@ -1,0 +1,8 @@
+charge 0.0
+ixc 7
+natom 2
+nsppol 1
+#Definition of the unit cell
+acell
+1.00000000000000 1.00000000000000 1.00000000000000 Angstrom
+rprim
