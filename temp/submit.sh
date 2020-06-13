@@ -4,4 +4,4 @@
 #SBATCH -t 0-4:00                  # wall time (D-HH:MM)
 #SBATCH -o slurm.%j.out             # STDOUT (%j = JobId)
 
-python3 query_test_3.py
+python3 query_test_4.py
